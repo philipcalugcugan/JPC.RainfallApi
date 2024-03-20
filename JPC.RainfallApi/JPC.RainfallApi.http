@@ -1,0 +1,6 @@
+@JPC.RainfallApi_HostAddress = http://localhost:3000
+
+GET {{JPC.RainfallApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
